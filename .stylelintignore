@@ -1,0 +1,8 @@
+node_modules/
+dist/
+resources/assets/icons
+resources/shared/assets/icons
+resources/index.template.html
+resources/app/styles/utility/reset.scss
+.idea
+

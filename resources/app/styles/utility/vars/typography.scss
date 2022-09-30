@@ -1,0 +1,11 @@
+$mainFontFamily: 'Mulish';
+$icon: 'icon', sans-serif;
+
+$tags: (
+    h2            : (toRem(28), toRem(36), toRem(44), (toRem(34), toRem(44), toRem(56))),
+    h4            : (toRem(20), toRem(24), toRem(32), (toRem(24), toRem(40), toRem(40))),
+    p1            : (toRem(20), toRem(20), toRem(24), (toRem(24), toRem(24), toRem(28))),
+    p2            : (toRem(20), toRem(20), toRem(20), (toRem(24))),
+    p3            : (toRem(16), toRem(16), toRem(16), (toRem(20))),
+    p4            : (toRem(14), toRem(14), toRem(14), (toRem(16))),
+);
