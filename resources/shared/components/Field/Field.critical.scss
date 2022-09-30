@@ -1,0 +1,12 @@
+.field {
+    margin: toRem(100) auto 0;
+
+    &__cell {
+        display: inline-block;
+        vertical-align: top;
+        box-sizing: border-box;
+        border: 1px solid #000;
+        width: 40px;
+        height: 40px;
+    }
+}

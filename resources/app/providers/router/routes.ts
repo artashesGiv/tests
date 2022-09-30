@@ -1,5 +1,4 @@
 import { RouteConfig } from 'vue-router'
-
 import Index from  '@/pages/Index.vue'
 
 const paths: RouteConfig[] = [
